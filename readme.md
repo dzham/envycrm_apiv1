@@ -1,5 +1,7 @@
 **Установка**
 
+``composer require dzham/envycrm_api``
+
 **Использование**
 
 ```php
