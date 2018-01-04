@@ -1,6 +1,6 @@
 **Установка**
 
-``composer require dzham/envycrm_api``
+``composer require dzham/envycrm_api_v1``
 
 **Использование**
 
