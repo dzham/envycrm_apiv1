@@ -1,5 +1,7 @@
 **Установка**
 
+``composer require dzham/envycrm_api``
+
 **Использование**
 
 ```php
@@ -12,6 +14,8 @@ try{
 ```
 
 **Методы**
+
+Описание всех методов - [Перейти](https://docs.google.com/document/d/1TLXZxy2PR1_MZwpKROGV_TMTRbFEltrMOTtWWFyK_WA)
 
 ``setApiKey`` - Установка API ключа
  - Заявка

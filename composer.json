@@ -1,6 +1,9 @@
 {
     "name": "dzham/envycrm_api",
     "version" : "1.0.0",
+    "description": "EnvyCrm API V1",
+    "keywords": ["crm", "api", "envybox", "envycrm"],
+    "license": "MIT",
     "type": "library",
     "authors": [
         {
